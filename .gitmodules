@@ -1,0 +1,3 @@
+[submodule "github-board"]
+	path = github-board
+	url = git@github.com:bayandin/github-board.git
